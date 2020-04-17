@@ -5,4 +5,6 @@ CSS hackathon template with hot reloading for development
 
 `npm run start`
 
+Goto `http://localhost:8080`
+
 Use `./src/styles.css` for your styles
